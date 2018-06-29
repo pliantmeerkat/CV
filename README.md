@@ -61,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Employment History
 
-# Paramo Ltd: 2012 - 2018 (Shop Assistant)
+### Paramo Ltd: 2012 - 2018 (Shop Assistant)
 
 - Longest serving store staff on payroll
 - Extensive expirience around customers/ the general public
