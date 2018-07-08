@@ -2,7 +2,7 @@
 
 I am a Musician and composer turned software develloper skilled in several languages (C++, Java, Js, Ruby, Python, C#, see my GitHub for full list), a veteran bug and error fixer (mostly from my own making), purveyor of Stackoverflow and MSDN forums and an aspiring algorithmic composer. I am a lover of problem solving and am not afraid of a challenge, my PSA programs - see my Github - show how despite being a total amateur with no formal training, i was able to create a functional music algorithmic system alongside my full time university studdies and  part-full time job. Is the program perferct? absolutely not but i believe that each attempt i make with my ever increasing programming toolkit will prove coloser to the vision i hold so dear to me.
 
-Semantics aside why should you hire me then? Well I believe that I have a strong capability to learn and improve, and above all programmming is something I find extremely enjoyable. Aside from this I believe that the rest of this CV should demonstrate my other skills/ qualities
+Semantics aside why should you hire me then? Well I believe that I have a strong capability to learn and improve, and above all programmming is something I find extremely enjoyable. Aside from this I believe that the rest of this CV should demonstrate my other skills/ qualities.
 
 ## Skills
 
@@ -27,20 +27,25 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - Usage of new and improved techniques across each program
   - Tackling problems head on and on my own intiative
   - Willingness to learn and commitment to improvment
-  - Receptivness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to      improve                         
+  - Receptivness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to         improve                         
 
-#### Another Skill
+#### High Pressure Situations/ Teamwork
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Working well under pressure is a skill that has taken years to devellop, only by entering difficult situations and streaching my physical and emotional capablities to their limits have W been able to add this to my perverbial toolset. Like all skills these are constantly in a state of devellopment, and I believe that by entering suitably challenging and engaging employment I will best be able to continue my personal and developmental growth.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+##### Examples
+
+###### Expirienced skiier and mountaineer: 
+
+  - Staying calm is essential, as even the slightest lapse in concentration can at times result in potentially life threaterning consequences. 
+  - maintaining effeicient coordination: relaying important infomation (snow condition, cravesce locations, cornices etc.), setting pitches/ belays, walking apline style.
+  - several years of climbing instruction volunteering in my late teens.
+  - staying patient when things go wrong, and making sensible and well informed decisions, such as turning back when weather conditions become problematic.
+  - taking on feedback and learning on the job: much of my current knowledge was gained by embarking on trips with expireienced individuals/ guides, where I have been able learn key mountain skills in a safe and secure environment.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jul-Sept 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -50,7 +55,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
 
 #### University of Surrey (2012-2017)
 
