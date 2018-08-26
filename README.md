@@ -1,8 +1,6 @@
 ## Jack Branch
 
-I am a Musician and composer turned software develloper skilled in several languages (C++, Java, Js, Ruby, Python, C#, see my GitHub for full list), a veteran bug and error fixer (mostly from my own making), purveyor of Stackoverflow and MSDN forums and an aspiring algorithmic composer. I am a lover of problem solving and am not afraid of a challenge, my PSA programs - see my Github - show how despite being a total amateur with no formal training, i was able to create a functional music algorithmic system alongside my full time university studdies and  part-full time job. Is the program perferct? absolutely not but i believe that each attempt i make with my ever increasing programming toolkit will prove coloser to the vision i hold so dear to me.
-
-Semantics aside why should you hire me then? Well I believe that I have a strong capability to learn and improve, and above all programmming is something I find extremely enjoyable. Aside from this I believe that the rest of this CV should demonstrate my other skills/ qualities.
+I am a musciain turned software develloper, veteran bug fixer, purveyor or stackoverflow/ msdn forums and aspiring c++/c#/java backend engineer. Simply put I love writing programs, give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee.
 
 ## Skills
 
@@ -18,6 +16,12 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - PSA: C++ (2017) https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original
   - PSA Express: C++ (2017) https://github.com/pliantmeerkat/PSA-Express
   - PSA 2018: Java (2018) https://github.com/pliantmeerkat/PSA-2018
+  - Jnote 2018
+  - JcBank
+  - Encrypted Diary
+  - TestJack
+  - JavaKata: Binary search
+  - Web Takeout
 
 #### Achievements
 
