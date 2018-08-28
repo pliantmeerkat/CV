@@ -4,7 +4,7 @@ I am a musciain turned software develloper, veteran bug fixer, purveyor or stack
 
 ## Skills
 
-#### Software/ Programming
+### Software/ Programming
 
 While a rather broad category i believe this is my key skill within this cv, over the past three years I have made it my mission to learn and devellop in a wide variety of different languages, starting from a simple Visual-Basic macro within Excell's VBA editor right up to my current Java Psa version. One may only look at my published work to see how my programs have eveolved, as new tools/ techniques brought to my attention, to see clear evidence of my commitment to furthur improve and refine this skill.
 
@@ -16,15 +16,15 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original)
   - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express)
   - [PSA 2018: Java (2018)](https://github.com/pliantmeerkat/PSA-2018)
-  - [Jnote 2018](https://github.com/pliantmeerkat/JcBank)
-  - [JcBank](https://github.com/pliantmeerkat/JcBank)
-  - [Encrypted Diary](https://github.com/pliantmeerkat/EncryptedDiary)
-  - [TestJack](https://github.com/pliantmeerkat/TestJack)
-  - [JavaKata: Binary search](https://github.com/pliantmeerkat/JavaKata)
-  - [Web Takeout](https://github.com/pliantmeerkat/TakeAwayWeb)
-  - [Acebook]()
+  - [Jnote 2018 Java( 2018)](https://github.com/pliantmeerkat/JcBank)
+  - [JcBank C++ (2018)](https://github.com/pliantmeerkat/JcBank)
+  - [Encrypted Diary Ruby (2018)](https://github.com/pliantmeerkat/EncryptedDiary)
+  - [TestJack Node/Js (2018)](https://github.com/pliantmeerkat/TestJack)
+  - [JavaKata: Binary search Java (2018)](https://github.com/pliantmeerkat/JavaKata)
+  - [Web Takeout Ruby/Sinatra (2018)](https://github.com/pliantmeerkat/TakeAwayWeb)
+  - [Acebook Ruby/Rails (2018)]()
 
-#### Achievements
+### Achievements
 
   - Several musical porftolios using the above musical programs - see soundcloud. 
   - A clear improvment from each program to the next
@@ -34,19 +34,21 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - Willingness to learn and commitment to improvment
   - Receptivness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to         improve                         
 
-#### High Pressure Situations/ Teamwork
+### High Pressure Situations/ Teamwork
 
-Working well under pressure is a skill that has taken years to devellop, only by entering difficult situations and streaching my physical and emotional capablities to their limits have W been able to add this to my perverbial toolset. Like all skills these are constantly in a state of devellopment, and I believe that by entering suitably challenging and engaging employment I will best be able to continue my personal and developmental growth.
+Working well under pressure is a skill that has taken years to devellop, only by entering difficult situations and streaching my physical and emotional capablities to their limits have I been able to add this to my perverbial toolset. Like all skills these are constantly in a state of devellopment, and I believe that by entering suitably challenging and engaging employment I will best be able to continue my personal and developmental growth.
 
-##### Examples
+#### Examples
 
-###### Expirienced skiier and mountaineer: 
+#### Expirienced skiier and mountaineer: 
 
   - Staying calm is essential, as even the slightest lapse in concentration can at times result in potentially life threaterning consequences. 
   - maintaining effeicient coordination: relaying important infomation (snow condition, cravesce locations, cornices etc.), setting pitches/ belays, walking apline style.
   - several years of climbing instruction volunteering in my late teens.
   - staying patient when things go wrong, and making sensible and well informed decisions, such as turning back when weather conditions become problematic.
   - taking on feedback and learning on the job: much of my current knowledge was gained by embarking on trips with expireienced individuals/ guides, where I have been able learn key mountain skills in a safe and secure environment.
+
+#### Makers academy team projects
 
 ## Education
 
