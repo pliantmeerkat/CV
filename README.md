@@ -10,12 +10,12 @@ While a rather broad category i believe this is my key skill within this cv, ove
 
 ### Numerous applications in several languages:
 
-  - GEN App: python)(2016
-  - (Gen App: C# (2016))[https://github.com/pliantmeerkat/GenApp]
-  - (Serial-Jam: Java (2016))Js/ max7 (2017)[https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism]
-  - (PSA: C++ (2017))[https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original]
-  - (PSA Express: C++ (2017))[https://github.com/pliantmeerkat/PSA-Express]
-  - (PSA 2018: Java (2018))[https://github.com/pliantmeerkat/PSA-2018]
+  - GEN App: python (2016)
+  - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp)
+  - [Serial-Jam: Java (2016)Js/ max7 (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism)
+  - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original)
+  - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express)
+  - [PSA 2018: Java (2018)](https://github.com/pliantmeerkat/PSA-2018)
   - Jnote 2018
   - JcBank
   - Encrypted Diary
