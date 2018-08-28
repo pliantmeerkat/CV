@@ -16,12 +16,13 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original)
   - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express)
   - [PSA 2018: Java (2018)](https://github.com/pliantmeerkat/PSA-2018)
-  - Jnote 2018
-  - JcBank
-  - Encrypted Diary
-  - TestJack
-  - JavaKata: Binary search
-  - Web Takeout
+  - [Jnote 2018](https://github.com/pliantmeerkat/JcBank)
+  - [JcBank](https://github.com/pliantmeerkat/JcBank)
+  - [Encrypted Diary](https://github.com/pliantmeerkat/EncryptedDiary)
+  - [TestJack](https://github.com/pliantmeerkat/TestJack)
+  - [JavaKata: Binary search](https://github.com/pliantmeerkat/JavaKata)
+  - [Web Takeout](https://github.com/pliantmeerkat/TakeAwayWeb)
+  - [Acebook]()
 
 #### Achievements
 
