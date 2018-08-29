@@ -2,7 +2,7 @@
 
 I am a musician turned software developer, veteran bug fixer, purveyor of stackoverflow/ msdn forums and aspiring c++/c#/java/rails back-end engineer. Simply put I love writing programs: give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigorous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projects and team projects using the AGILE work environment. Fundamentally I am a highly motivated, dedicated software developer, with a keen interest in software/ computing and high enthusiasm for further growth and learning opportunities.
 
-## contact information
+## Contact Information
 
 	25 Highbury Park
 	London
@@ -16,7 +16,7 @@ I am a musician turned software developer, veteran bug fixer, purveyor of stacko
 
 Over the past three years I have made it my mission to learn and develop in a wide variety of different languages, starting from a simple Visual-Basic macro within Excell's VBA editor right up to my projects today. I hope that by looking at my published work it is possible to see how my programs have evolved, showing clear evidence of my commitment to further improve and refine this skill.
 
-### Numerous applications in several languages:
+### Numerous Applications in Several Languages:
 
   - GEN App: Python (2016) - A simple music generation program, using my [NRT](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) algorithm to both compose and play back created music.
   - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp) - An improvement on the Python version, with a more functional Gui and musical notation display.
@@ -46,8 +46,6 @@ Over the past three years I have made it my mission to learn and develop in a wi
 
 Working well under pressure is a skill that has taken years to develop, only by entering difficult situations and stretching my physical and emotional capabilities to their limits have I been able to add this to my list of skills. Like all skills these are constantly in a state of development, and I believe that by entering suitably challenging and engaging employment I will best be able to continue my personal and developmental growth.
 
-#### Examples
-
 #### Experienced skier and mountaineer: 
 
   - Staying calm is essential, as even the slightest lapse in concentration can at times result in potentially life threatening consequences. 
@@ -65,8 +63,6 @@ Working well under pressure is a skill that has taken years to develop, only by 
 - Keeping produced code specific, Dry and easy to read/ change/ understand.
 - Experience of planning sessions, creating tasks/ tickets and distributing tasks efficiently
 - Achieving all this in a safe and feedback intensive environment, allowing mistakes to be made and key lessons learned as a result.
-
-#### Makers academy team projects
 
 ## Education
 
