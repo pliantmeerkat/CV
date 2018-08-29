@@ -16,7 +16,7 @@ I am a musician turned software developer, veteran bug fixer, purveyor of stacko
 
 Over the past three years I have made it my mission to learn and develop in a wide variety of different languages, starting from a simple Visual-Basic macro within Excell's VBA editor right up to my projects today. I hope that by looking at my published work it is possible to see how my programs have evolved, showing clear evidence of my commitment to further improve and refine this skill.
 
-### Numerous Applications in Several Languages:
+#### Numerous Applications in Several Languages:
 
   - GEN App: Python (2016) - A simple music generation program, using my [NRT](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) algorithm to both compose and play back created music.
   - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp) - An improvement on the Python version, with a more functional Gui and musical notation display.
@@ -31,7 +31,7 @@ Over the past three years I have made it my mission to learn and develop in a wi
   - [Web Takeout Ruby/Sinatra (2018)](https://github.com/pliantmeerkat/TakeAwayWeb) - A take-out web application written in sintra/ruby, using the MVC model and a postgres database.
   - [Acebook Ruby/Rails (2018)](https://github.com/Team-Visage/vBook) - A team ruby/rails project, creating a Facebook clone using the rails framework.
 
-### Achievements
+#### Achievements
 
   - Several musical portfolios using the above musical programs.
   - A clear improvement from each program to the next.
