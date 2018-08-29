@@ -1,6 +1,6 @@
 ## Jack Branch
 
-I am a musciain turned software develloper, veteran bug fixer, purveyor or stackoverflow/ msdn forums and aspiring c++/c#/java backend engineer. Simply put I love writing programs, give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigerous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projets and team projects using the AGILE work environment. Fundamentally I am a highly motivated, dedicated software develloper, with a keen interest in software/ computng and high enthusiasm for further growth and learning oppertunities.
+I am a musciain turned software develloper, veteran bug fixer, purveyor or stackoverflow/ msdn forums and aspiring c++/c#/java/rails backend engineer. Simply put I love writing programs, give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigerous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projets and team projects using the AGILE work environment. Fundamentally I am a highly motivated, dedicated software develloper, with a keen interest in software/ computng and high enthusiasm for further growth and learning oppertunities.
 
 ## Skills
 
@@ -13,16 +13,15 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - GEN App: python (2016) - A simple music generation program, using my [NRT](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) algorithm to both compose and play back created music.
   - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp) - An improvment on the python version, with a more functional Gui and musical notation display.
   - [Serial-Jam: Java (2016)Js/ max7 (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism) - A [serisalism](https://en.wikipedia.org/wiki/Serialism) compositional program, the *.js* version can be run within **Max 7** to dynamically compose and play serialist compositions.
-  - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original)
-  - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express)
-  - [PSA 2018: Java (2018)](https://github.com/pliantmeerkat/PSA-2018)
-  - [Jnote 2018 Java( 2018)](https://github.com/pliantmeerkat/JcBank)
-  - [JcBank C++ (2018)](https://github.com/pliantmeerkat/JcBank)
-  - [Encrypted Diary Ruby (2018)](https://github.com/pliantmeerkat/EncryptedDiary)
-  - [TestJack Node/Js (2018)](https://github.com/pliantmeerkat/TestJack)
-  - [JavaKata: Binary search Java (2018)](https://github.com/pliantmeerkat/JavaKata)
-  - [Web Takeout Ruby/Sinatra (2018)](https://github.com/pliantmeerkat/TakeAwayWeb)
-  - [Acebook Ruby/Rails (2018)](https://github.com/Team-Visage/vBook)
+  - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original) - My first PSA program, was used to compose my fianl year composition portfolio at university.
+  - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express) - A second version of PSA, using a varient of Diatonic/ Modal music theory and a slimmer user interface.
+  - [Jnote 2018 Java( 2018)](https://github.com/pliantmeerkat/JcBank) - A note taking java swing desktop application using JUnit for testing and a postgres sql database.
+  - [JcBank C++ (2018)](https://github.com/pliantmeerkat/JcBank) - A c++ banking simulation, modelling payments, data storage and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) data encryption
+  - [Encrypted Diary Ruby (2018)](https://github.com/pliantmeerkat/EncryptedDiary) - A simply console application simluating a secret diary with data encryption instead of locks.
+  - [TestJack Node/Js (2018)](https://github.com/pliantmeerkat/TestJack) - A javascript testing framwork that runs in browser, modeled on [Jasmine](https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework))
+  - [JavaKata: Binary search Java (2018)](https://github.com/pliantmeerkat/JavaKata) - My attempt at creating/ testing different search methods, from a simple front-end search to a logic driven varient of the [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+  - [Web Takeout Ruby/Sinatra (2018)](https://github.com/pliantmeerkat/TakeAwayWeb) - A take-out web application written in sintra/ruby, using the MVC model and a postgres database.
+  - [Acebook Ruby/Rails (2018)](https://github.com/Team-Visage/vBook) - A team ruby/rails project, creating a facebook clone using the rails framework.
 
 ### Achievements
 
@@ -49,8 +48,9 @@ Working well under pressure is a skill that has taken years to devellop, only by
   - staying patient when things go wrong, and making sensible and well informed decisions, such as turning back when weather conditions become problematic.
   - taking on feedback and learning on the job: much of my current knowledge was gained by embarking on trips with expireienced individuals/ guides, where I have been able learn key mountain skills in a safe and secure environment.
 
-#### Makers BnB / vBook (2018)
+#### Makers BnB / vBook (2018) (Whilst at [Makers Academy](https://makers.tech/))
 
+- Invaluble expirience in working within a software tam environment, 
 
 #### Makers academy team projects
 
