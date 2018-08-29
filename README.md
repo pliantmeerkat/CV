@@ -1,6 +1,6 @@
 ## Jack Branch
 
-I am a musciain turned software develloper, veteran bug fixer, purveyor or stackoverflow/ msdn forums and aspiring c++/c#/java backend engineer. Simply put I love writing programs, give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee.
+I am a musciain turned software develloper, veteran bug fixer, purveyor or stackoverflow/ msdn forums and aspiring c++/c#/java backend engineer. Simply put I love writing programs, give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigerous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projets and team projects using the AGILE work environment. Fundamentally I am a highly motivated, dedicated software develloper, with a keen interest in software/ computng and high enthusiasm for further growth and learning oppertunities.
 
 ## Skills
 
@@ -10,9 +10,9 @@ While a rather broad category i believe this is my key skill within this cv, ove
 
 ### Numerous applications in several languages:
 
-  - GEN App: python (2016)
-  - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp)
-  - [Serial-Jam: Java (2016)Js/ max7 (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism)
+  - GEN App: python (2016) - A simple music generation program, using my [NRT](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) algorithm to both compose and play back created music.
+  - [Gen App: C# (2016)](https://github.com/pliantmeerkat/GenApp) - An improvment on the python version, with a more functional Gui and musical notation display.
+  - [Serial-Jam: Java (2016)Js/ max7 (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism) - A [serisalism](https://en.wikipedia.org/wiki/Serialism) compositional program, the *.js* version can be run within **Max 7** to dynamically compose and play serialist compositions.
   - [PSA: C++ (2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/PSA%20Original)
   - [PSA Express: C++ (2017)](https://github.com/pliantmeerkat/PSA-Express)
   - [PSA 2018: Java (2018)](https://github.com/pliantmeerkat/PSA-2018)
@@ -22,7 +22,7 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - [TestJack Node/Js (2018)](https://github.com/pliantmeerkat/TestJack)
   - [JavaKata: Binary search Java (2018)](https://github.com/pliantmeerkat/JavaKata)
   - [Web Takeout Ruby/Sinatra (2018)](https://github.com/pliantmeerkat/TakeAwayWeb)
-  - [Acebook Ruby/Rails (2018)]()
+  - [Acebook Ruby/Rails (2018)](https://github.com/Team-Visage/vBook)
 
 ### Achievements
 
@@ -32,7 +32,8 @@ While a rather broad category i believe this is my key skill within this cv, ove
   - Usage of new and improved techniques across each program
   - Tackling problems head on and on my own intiative
   - Willingness to learn and commitment to improvment
-  - Receptivness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to         improve                         
+  - Receptivness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to         improve
+  - Successfull usage of the TDD cycle across several different languages/ frameworks, including writing [my own testing framework](https://github.com/pliantmeerkat/TestJack)
 
 ### High Pressure Situations/ Teamwork
 
@@ -48,13 +49,16 @@ Working well under pressure is a skill that has taken years to devellop, only by
   - staying patient when things go wrong, and making sensible and well informed decisions, such as turning back when weather conditions become problematic.
   - taking on feedback and learning on the job: much of my current knowledge was gained by embarking on trips with expireienced individuals/ guides, where I have been able learn key mountain skills in a safe and secure environment.
 
+#### Makers BnB / vBook (2018)
+
+
 #### Makers academy team projects
 
 ## Education
 
 #### Makers Academy (Jul-Sept 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code. All listed 
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
