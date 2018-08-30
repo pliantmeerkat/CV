@@ -16,7 +16,7 @@ I am a musician turned software developer, veteran bug fixer, purveyor of stacko
 
 Over the past three years I have made it my mission to learn and develop in a wide variety of different languages, starting from a simple Visual-Basic macro within Excell's VBA editor right up to my projects today. I hope that by looking at my published work it is possible to see how my programs have evolved, showing clear evidence of my commitment to further improve and refine this skill.
 
-## Projects
+### Projects
 
 | Project                                                                                                               | Description                                                                                                                                                                                                      | Technology        | Testing         |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------|
