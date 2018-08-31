@@ -82,7 +82,7 @@ Working well under pressure is a skill that has taken years to develop, only by 
 - Music and sound recording - degree with honors
 - Introduced me to advanced music harmony/ theory, later influencing my early software applications.
 - Whilst unrelated to software lead to my interest in algorithmic composition, culminating in my final project: writing a portfolio of compositions using my software PSA.
-- Extensive research around early software/ machine learning applications used in music composition as part of my dissertation (**[David Cope:]**(http://www.computerhistory.org/atchm/algorithmic-music-david-cope-and-emi/)The ALICE program, SARA, Backtalk etc; **[Iannis Xenakis]**(http://mathcs.holycross.edu/~groberts/Courses/Mont2/2012/Handouts/Lectures/Xenakis-web.pdf): UPIC, Stochastic Music; **[John Biles:]**(https://www.researchgate.net/profile/John_Biles) GenJam).
+- Extensive research around early software/ machine learning applications used in music composition as part of my dissertation ([**David Cope:**](http://www.computerhistory.org/atchm/algorithmic-music-david-cope-and-emi/)The ALICE program, SARA, Backtalk etc; [**Iannis Xenakis**](http://mathcs.holycross.edu/~groberts/Courses/Mont2/2012/Handouts/Lectures/Xenakis-web.pdf): UPIC, Stochastic Music; [**John Biles:**](https://www.researchgate.net/profile/John_Biles) GenJam).
 - Learning/ researching algorithmic composition lead to my keen interst in machine learning and neural networks.
 
 ## Employment History
