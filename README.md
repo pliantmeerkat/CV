@@ -1,6 +1,6 @@
 ## Jack Branch
 
-I am a musician turned software developer, veteran bug fixer, purveyor of stackoverflow/ msdn forums and aspiring c++/c#/java/rails back-end engineer. Simply put I love writing programs: give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigorous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projects and team projects using the AGILE work environment. Fundamentally I am a highly motivated, dedicated software developer, with a keen interest in software/ computing and high enthusiasm for further growth and learning opportunities.
+I am a software developer and former musician, veteran bug fixer, purveyor of stackoverflow/ msdn forums and aspiring c++/c#/java/rails back-end engineer. Simply put I love writing programs: give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigorous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projects and team projects using the AGILE work environment. 
 
 ## Contact Information
 
@@ -32,12 +32,12 @@ Over the past three years I have made it my mission to learn and develop in a wi
 | [Serial-Jam:  (2016/2017)](https://github.com/pliantmeerkat/Music-Gerenaration-Algorithms/tree/master/JS%20Serialism) | A [serialism](https://en.wikipedia.org/wiki/Serialism) compositional program, the *.js* version can be run within **Max 7** to dynamically compose and play serialist compositions.                              |  Java, Js/ max7    | None            |
 
 #### Achievements
-
-  - Several musical portfolios using the above musical programs.
-  - A clear improvement from each program to the next.
-  - Determination to solve complex problems, and overcome seemingly insurmountable errors.
-  - Usage of new and improved techniques across each program.
-  - Tackling problems head on and on my own initiative.
+  - Learning to program on my own initiative alongside my studdies, leading to the creation of my first full application [Gen-App](https://github.com/pliantmeerkat/GenApp) in 2016.
+  - Several musical portfolios using the above musical programs (Gen-App, Serial-Jam, Psa).
+  - A clear improvement from each program to the next, simply looking at the code in all my post 2018 programs in comparison to my current work can confirm this.
+  - Determination to solve complex problems, and overcome seemingly insurmountable errors, including learning and implementing c++ dependancy injection in two days while working on JcBank
+  - Usage of new and improved techniques across each program, especially prominent after my introduction to TDD.
+  - Tackling problems head on and on my own initiative, deciding to write a desktop c++ application from scratch for my final university project probably wasnt the best way to excell in my degree, but i did it anyway.
   - Willingness to learn and commitment to improvement.
   - Receptiveness to feedback, many files/ applications are written poorly yet I still share them in order to find new ways to improve.
   - Successful usage of the TDD cycle across several different languages/ frameworks, including writing [my own testing framework](https://github.com/pliantmeerkat/TestJack).
@@ -46,6 +46,16 @@ Over the past three years I have made it my mission to learn and develop in a wi
 
 Working well under pressure is a skill that has taken years to develop, only by entering difficult situations and stretching my physical and emotional capabilities to their limits have I been able to add this to my list of skills. Like all skills these are constantly in a state of development, and I believe that by entering suitably challenging and engaging employment I will best be able to continue my personal and developmental growth.
 
+#### Agile Software Development(Whilst at [Makers Academy](https://makers.tech/))
+
+- Invaluable experience in working within a software team environment.
+- Usage of Agile software development, ticket based work distribution and user story/ MVP creation.
+- Git workflow techniques: branching, merging, pull requests etc.
+- Managing group conflicts, compromising on major decisions and sticking to tasks effectively.
+- Keeping produced code specific, DRY and easy to read/ change/ understand.
+- Experience of planning sessions, creating tasks/ tickets and distributing tasks efficiently
+- Achieving all this in a safe and feedback intensive environment, allowing mistakes to be made and key lessons learned as a result.
+
 #### Experienced skier and mountaineer: 
 
   - Staying calm is essential, as even the slightest lapse in concentration can at times result in potentially life threatening consequences. 
@@ -53,16 +63,6 @@ Working well under pressure is a skill that has taken years to develop, only by 
   - Several years of climbing instruction volunteering in my late teens.
   - Staying patient when things go wrong, and making sensible and well informed decisions, such as turning back when weather conditions become problematic.
   - Taking on feedback and learning on the job: much of my current knowledge was gained by embarking on trips with experienced individuals/ guides, where I have been able learn key mountain skills in a safe and secure environment.
-
-#### Makers BnB / vBook (2018) (Whilst at [Makers Academy](https://makers.tech/))
-
-- Invaluable experience in working within a software team environment.
-- Usage of Agile software development, ticket based work distribution and user story/ MVP creation.
-- Git workflow techniques: branching, merging, pull request etc.
-- Managing group conflicts, compromising on major decisions and sticking to tasks effectively.
-- Keeping produced code specific, Dry and easy to read/ change/ understand.
-- Experience of planning sessions, creating tasks/ tickets and distributing tasks efficiently
-- Achieving all this in a safe and feedback intensive environment, allowing mistakes to be made and key lessons learned as a result.
 
 ## Education
 
@@ -80,9 +80,10 @@ Working well under pressure is a skill that has taken years to develop, only by 
 #### University of Surrey (2012-2017)
 
 - Music and sound recording - degree with honors
-- achieved despite less than ideal circumstances: several years of personal illness and illnesses in the family
+- Introduced me to advanced music harmony/ theory, later influencing my early software applications.
 - Whilst unrelated to software lead to my interest in algorithmic composition, culminating in my final project: writing a portfolio of compositions using my software PSA.
-- Demonstrates my determined attitude, whereby I was able to return from serious illness and complete my studies.
+- Extensive research around early software/ machine learning applications used in music composition as part of my dissertation (**[David Cope:]**(http://www.computerhistory.org/atchm/algorithmic-music-david-cope-and-emi/)The ALICE program, SARA, Backtalk etc; **[Iannis Xenakis]**(http://mathcs.holycross.edu/~groberts/Courses/Mont2/2012/Handouts/Lectures/Xenakis-web.pdf): UPIC, Stochastic Music; **[John Biles:]**(https://www.researchgate.net/profile/John_Biles) GenJam).
+- Learning/ researching algorithmic composition lead to my keen interst in machine learning and neural networks.
 
 ## Employment History
 
