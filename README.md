@@ -2,14 +2,6 @@
 
 I am a software developer and former musician, veteran bug fixer, purveyor of Stackoverflow/ MSDN forums and aspiring c++/c#/java/rails back-end engineer. Simply put I love writing programs: give me a problem to solve and a strong cup of tea and you've got an extremely happy potential employee. I am a rigorous employer of [TDD](http://agiledata.org/essays/tdd.html) in all my current projects, both individual projects and team projects using the AGILE work environment.
 
-## Contact Information
-
-- 25 Highbury Park
-- London
-- N51th
-- 07807795722
-- jackthomasbranch@yahoo.com
-
 ## Skills
 
 ### Software/ Programming
